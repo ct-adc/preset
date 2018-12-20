@@ -3,7 +3,7 @@
 命令方式
 ```
 	npm install -g @vue/cli
-	vue create ct-adc/preset my-project
+	vue create --preset ct-adc/preset my-project
 ```
 
 使用可视化界面安装

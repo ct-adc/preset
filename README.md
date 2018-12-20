@@ -11,7 +11,7 @@
 	vue ui
 ```
 
-
+![image](https://github.com/ct-adc/preset/blob/master/screenshots/shots1.png)
 
 ### 支持
 

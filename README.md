@@ -116,8 +116,8 @@ module.exports = {
  vue invoke  template
 ```
 输入新增页面的名称。
-![](http://doc.uc108.org:8002/Public/Uploads/2018-11-21/5bf50d63b5fb4.png)
+![image](https://github.com/ct-adc/preset/blob/master/screenshots/shots2.png)
 
 随即自动生成新页面模板。如果新页面是在项目运行中生成，需要重启服务
 
-![](http://doc.uc108.org:8002/Public/Uploads/2018-11-21/5bf511d1adbb0.png)
+![image](https://github.com/ct-adc/preset/blob/master/screenshots/shots3.png)
